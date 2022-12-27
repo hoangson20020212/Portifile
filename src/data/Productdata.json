@@ -1,0 +1,112 @@
+[
+    {
+        "id" : "1",
+        "name" : "Samsung Galaxy Z Flip4 5G",
+        "productLine" : "Z",
+        "productCode" : "ZFL4",
+        "chip" : "Snapdragon 8+ Gen 1",
+        "ram" : "8G",
+        "pin" : "3700 mAh",
+        "camera" : "50MP",
+        "screen" : "6,7",
+        "images" : [
+            "https://www.google.com.vn/url?sa=i&url=https%3A%2F%2Flaodong.vn%2Fthe-gioi%2Fman-nhan-voi-25-buc-anh-giai-nhiep-anh-gia-dai-ngan-ha-nam-2021-913299.ldo&psig=AOvVaw1-GolXvlkckCWk_PbC3IDt&ust=1671708201482000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLDrp77MivwCFQAAAAAdAAAAABAE"
+        ],
+        "warrantyPeriod" : 36,
+        "price" : 2699000,
+        "deleted" : false,
+        "createdAt" : "2022-11-26T02:26:37.779Z",
+        "updatedAt" : "2022-11026T63:56:18.213Z",
+        "--v" :0,
+        "deletedAt":"2022-11-26T03:56:18.2082",
+        "capacity" :"128 G8"
+    },
+    {
+        "id" : "2",
+        "name" : "Nokida",
+        "productLine" : "Z",
+        "productCode" : "ZFL4",
+        "chip" : "Snapdragon 8+ Gen 1",
+        "ram" : "8G",
+        "pin" : "3700 mAh",
+        "camera" : "50MP",
+        "screen" : "6,7",
+        "images" : [
+            "https://ae01.alicdn.com/kf/Hdbc5f08a28cc4679887cf5f53319e9720/N-m-3310-Ban-u-M-Kh-a-Nokia-3310-Gi-R-2G-GSM-H-Tr.jpg_Q90.jpg_.webp"
+        ],
+        "warrantyPeriod" : 36,
+        "price" : 2699000,
+        "deleted" : false,
+        "createdAt" : "2022-11-26T02:26:37.779Z",
+        "updatedAt" : "2022-11026T63:56:18.213Z",
+        "--v" :0,
+        "deletedAt":"2022-11-26T03:56:18.2082",
+        "capacity" :"128 G8"
+    },
+    {
+        "id" : "3",
+        "name" : "Iphone 8",
+        "productLine" : "Z",
+        "productCode" : "ZFL4",
+        "chip" : "Snapdragon 8+ Gen 1",
+        "ram" : "8G",
+        "pin" : "3700 mAh",
+        "camera" : "50MP",
+        "screen" : "6,7",
+        "images" : [
+            "https://images.macrumors.com/t/LOfu9VLk4WvjtKmnQtzdS67Rr3w=/800x0/smart/article-new/2016/05/iphone8gold.jpg?lossy"
+        ],
+        "warrantyPeriod" : 36,
+        "price" : 2699000,
+        "deleted" : false,
+        "createdAt" : "2022-11-26T02:26:37.779Z",
+        "updatedAt" : "2022-11026T63:56:18.213Z",
+        "--v" :0,
+        "deletedAt":"2022-11-26T03:56:18.2082",
+        "capacity" :"128 G8"
+    },
+    {
+        "id" : "4",
+        "name" : "Xoaomi",
+        "productLine" : "Z",
+        "productCode" : "ZFL4",
+        "chip" : "Snapdragon 8+ Gen 1",
+        "ram" : "8G",
+        "pin" : "3700 mAh",
+        "camera" : "50MP",
+        "screen" : "6,7",
+        "images" : [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvleXjOvebUvi3KnJiiIWLGRiH7CrcIoeB3Q&usqp=CAU"
+        ],
+        "warrantyPeriod" : 36,
+        "price" : 2699000,
+        "deleted" : false,
+        "createdAt" : "2022-11-26T02:26:37.779Z",
+        "updatedAt" : "2022-11026T63:56:18.213Z",
+        "--v" :0,
+        "deletedAt":"2022-11-26T03:56:18.2082",
+        "capacity" :"128 G8"
+    },
+    {
+        "id" : "5",
+        "name" : "Samsung X",
+        "productLine" : "Z",
+        "productCode" : "ZFL4",
+        "chip" : "Snapdragon 8+ Gen 1",
+        "ram" : "8G",
+        "pin" : "3700 mAh",
+        "camera" : "50MP",
+        "screen" : "6,7",
+        "images" : [
+            "https://img.websosanh.vn/v10/users/review/images/rmpitmfckscj1/xiaomi-poco-m54.jpg?compress=85"
+        ],
+        "warrantyPeriod" : 36,
+        "price" : 2699000,
+        "deleted" : false,
+        "createdAt" : "2022-11-26T02:26:37.779Z",
+        "updatedAt" : "2022-11026T63:56:18.213Z",
+        "--v" :0,
+        "deletedAt":"2022-11-26T03:56:18.2082",
+        "capacity" :"128 G8"
+    }
+]

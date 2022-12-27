@@ -1,0 +1,10 @@
+[
+    {
+        "id" : 12344,
+        "manager_id" : "5468",
+        "address" : "Cầu giấy",
+        "phone" : "0912434",
+        "warrantyCode" : "w_cg",
+        "status":"Đang hoạt động" 
+    }
+]

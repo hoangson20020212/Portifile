@@ -1,0 +1,112 @@
+.container {
+    width: 750px;
+    height: 500px; 
+    position: relative;
+    border: 3px solid rgb(237, 16, 178);
+    border-radius: 7px;
+}
+
+.image_header {
+    width: 63%; 
+    height: 100%; 
+    background: rgb(233, 104, 211)
+}
+
+.header {
+    width: 100%; 
+    height: 20%; 
+    display: flex; 
+    background: rgb(246, 143, 146);
+    flex-direction: row-reverse;
+    opacity: 0.7;
+
+}
+
+.infor {
+    width: 60%; 
+    height: 100%; 
+}
+
+.add {
+    width: 100%; 
+    height: 80%; 
+    display: flex; 
+    flex-direction: row-reverse;
+    
+}
+
+.image {
+    width: 250px; 
+    height: 400px; 
+    position: absolute; 
+    top: 30px; 
+    left: 28px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.infor_item {
+    color: black;
+    margin-top: 30px;
+    font-size: medium;
+    font-weight:500
+}
+
+
+#item1{
+    display: inline;
+    padding-left: 10px;
+    padding-right: 30px;
+}
+
+#item2{
+    display: inline;
+    padding-left: 10px;
+}
+
+.image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 0.5rem;
+} 
+
+
+
+.button_edit {
+    width: 80px; 
+    height: 45px; 
+    position: absolute; 
+    top: 350px; 
+    left: 80px;
+    border-radius: 50px;
+    border: 1px;
+    color: rgb(218, 15, 49);
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.back_button {
+    background-color: #38d39f;
+    transition: .3s;
+    border:#38d39f;
+    margin-right: 715px;
+    position: absolute; 
+    top:4px;
+    cursor: pointer;
+}
+
+.header > .back_button > i {
+    color: #0f1c18;
+}
+
+
+.infor_staff {
+    padding-left: 5px;
+}
+
+.image_header img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}

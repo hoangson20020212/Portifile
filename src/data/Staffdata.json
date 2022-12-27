@@ -1,0 +1,145 @@
+[
+    {
+        "id" : 2,
+        "fullName" : "Nguyễn Hữu Hoàng Sơn",
+        "username" : "hoangson",
+        "email" : "2003@gmal.com",
+        "phone" : "09454943",
+        "address":"Hà Tây",
+        "isAdmin" : true,
+        "isManager": false,
+        "deleted":false
+    },
+    {
+        "id" : 3,
+        "fullName" : "Để xem",
+        "username" : "hoangson",
+        "email" : "2003@gmal.com",
+        "phone" : "09454943",
+        "address":"Hà Tây",
+        "isAdmin" : true,
+        "isManager": false,
+        "deleted":false
+    },
+    {
+        "id" : 4,
+        "fullName" : "Chicken",
+        "username" : "hoangson",
+        "email" : "2003@gmal.com",
+        "phone" : "09454943",
+        "address":"Hà Tây",
+        "isAdmin" : true,
+        "isManager": false,
+        "deleted":false
+    }, 
+    {
+        "id" : 5,
+        "fullName" : "Cố thế đéo nào được",
+        "username" : "hoangson",
+        "email" : "2003@gmal.com",
+        "phone" : "09454943",
+        "address":"Hà Tây",
+        "isAdmin" : true,
+        "isManager": false,
+        "deleted":false
+    },
+    {
+        "id" : 6,
+        "fullName" : "Mãi chỉ là ước mơ",
+        "username" : "hoangson",
+        "email" : "2003@gmal.com",
+        "phone" : "09454943",
+        "address":"Hà Tây",
+        "isAdmin" : true,
+        "isManager": false,
+        "deleted":false
+    },
+    {
+        "id" : 7,
+        "fullName" : "B+ Xác suất",
+        "username" : "hoangson",
+        "email" : "2003@gmal.com",
+        "phone" : "09454943",
+        "address":"Hà Tây",
+        "isAdmin" : true,
+        "isManager": false,
+        "deleted":false
+    },
+    {
+        "id" : 8,
+        "fullName" : "Chắc chắn thất bại",
+        "username" : "hoangson",
+        "email" : "2003@gmal.com",
+        "phone" : "09454943",
+        "address":"Hà Tây",
+        "isAdmin" : true,
+        "isManager": false,
+        "deleted":false
+    },
+    {
+        "id" : 9,
+        "fullName" : "Hay lí do",
+        "username" : "hoangson",
+        "email" : "2003@gmal.com",
+        "phone" : "09454943",
+        "address":"Hà Tây",
+        "isAdmin" : true,
+        "isManager": false,
+        "deleted":false
+    },
+    {
+        "id" : 10,
+        "fullName" : "Lười học",
+        "username" : "hoangson",
+        "email" : "2003@gmal.com",
+        "phone" : "09454943",
+        "address":"Hà Tây",
+        "isAdmin" : true,
+        "isManager": false,
+        "deleted":false
+    },
+    {
+        "id" : 11,
+        "fullName" : "Đau đầu",
+        "username" : "hoangson",
+        "email" : "2003@gmal.com",
+        "phone" : "09454943",
+        "address":"Hà Tây",
+        "isAdmin" : true,
+        "isManager": false,
+        "deleted":false
+    },
+    {
+        "id" : 12,
+        "fullName" : "Cá mập",
+        "username" : "hoangson",
+        "email" : "2003@gmal.com",
+        "phone" : "09454943",
+        "address":"Hà Tây",
+        "isAdmin" : true,
+        "isManager": false,
+        "deleted":false
+    },
+    {
+        "id" : 13,
+        "fullName" : "Nguyễn Nam",
+        "username" : "hoangson",
+        "email" : "2003@gmal.com",
+        "phone" : "09454943",
+        "address":"Hà Tây",
+        "isAdmin" : true,
+        "isManager": false,
+        "deleted":false
+    }, 
+    {
+        "id" : 14,
+        "fullName" : "Trung THu",
+        "username" : "hoangson",
+        "email" : "2003@gmal.com",
+        "phone" : "09454943",
+        "address":"Hà Tây",
+        "isAdmin" : true,
+        "isManager": false,
+        "deleted":false
+    }
+]
